@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: d1a80b99464cc1c46aebb971dd5b05a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6109739754808552595
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_0
+  - first:
+      213: -4406748555389114970
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_1
+  - first:
+      213: -3391454487124704217
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_2
+  - first:
+      213: 5700913708071379005
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_3
+  - first:
+      213: -6881212138168748736
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_4
+  - first:
+      213: 7774155531573778017
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_5
+  - first:
+      213: -6240368124143559404
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_6
+  - first:
+      213: 585394894044619893
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_7
+  - first:
+      213: 343450862177880610
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_8
+  - first:
+      213: -4703259654303412384
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_9
+  - first:
+      213: 5534548544102434458
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_10
+  - first:
+      213: 3286969675785762752
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_11
+  - first:
+      213: 2659709393550747805
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_12
+  - first:
+      213: -8831479106246686679
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_13
+  - first:
+      213: 8086668524180717854
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_14
+  - first:
+      213: -8606128860109309466
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_15
+  - first:
+      213: -971402048768180108
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_16
+  - first:
+      213: 4634279167190221513
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_17
+  - first:
+      213: -1043630777841135258
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_18
+  - first:
+      213: 4862940426505650695
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_19
+  - first:
+      213: 4316006693921428629
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_20
+  - first:
+      213: 6538528067315140746
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_21
+  - first:
+      213: -8176819537326568941
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_22
+  - first:
+      213: 6985842182728445701
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_23
+  - first:
+      213: -1966285895803188667
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_24
+  - first:
+      213: 633528257460548311
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_25
+  - first:
+      213: 6789307228617088812
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_26
+  - first:
+      213: -4713199433777582422
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_27
+  - first:
+      213: -1535997757337438325
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_28
+  - first:
+      213: -6510309562111767142
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_29
+  - first:
+      213: 171495611909701302
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_30
+  - first:
+      213: 1220305235651885481
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_31
+  - first:
+      213: -2769528244416123866
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_32
+  - first:
+      213: -3250339117290412197
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_33
+  - first:
+      213: 4885772474198478
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_34
+  - first:
+      213: -2100891125236731769
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_35
+  - first:
+      213: 2494981311651851579
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_36
+  - first:
+      213: 5425176924613690312
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_37
+  - first:
+      213: -7631759402897739108
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_38
+  - first:
+      213: 6023662976076163923
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_39
+  - first:
+      213: 4518934025961942059
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_40
+  - first:
+      213: 2841731865421418588
+    second: SixDirectional_CuteHipsterBoy_SpriteSheet_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942b87e82c792849b67b11a570cf34c
+      internalID: 6109739754808552595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448f4ec63d3184840b542df5a84f7982
+      internalID: -4406748555389114970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bdb2e94334a93489e631a4ed56881c
+      internalID: -3391454487124704217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed15eb31e2198a84caac77f8298ff1cf
+      internalID: 5700913708071379005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2253494e26b1b4c802b583405b12f4
+      internalID: -6881212138168748736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1763264c09d9954fb1c6e560cd04c7d
+      internalID: 7774155531573778017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfaee839bfcb8c4589b5fcc7b065e75
+      internalID: -6240368124143559404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8cfebcdfa62444bae11fce50e421aa
+      internalID: 585394894044619893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e7f7e75580cd74292b91f591137dca
+      internalID: 343450862177880610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2494100b7e924e9f1e1d08bc06cd7
+      internalID: -4703259654303412384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c03250b6a25941a4d826ab46c780d
+      internalID: 5534548544102434458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f5d79966f80a944b9bd1dc797eca0d
+      internalID: 3286969675785762752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf24fe17e8aec4b9e1b8c555c4eba3
+      internalID: 2659709393550747805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a65413fce675449bebbe1b69583d7
+      internalID: -8831479106246686679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f496206cc6314f89057be3f9be845
+      internalID: 8086668524180717854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee90a303a36d64b9fc98a15ff37fca
+      internalID: -8606128860109309466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9122b6c34f34cc4cbec3234ccbdffc8
+      internalID: -971402048768180108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02c3de584063149a47a20248065547
+      internalID: 4634279167190221513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dbdda897f7423428361bf5d27ffdeb
+      internalID: -1043630777841135258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e56c2f8854b8d40b9ba484c656926c
+      internalID: 4862940426505650695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73620aea07d39af4cba0e6ace596eba1
+      internalID: 4316006693921428629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bacccc4d43f16d4d952139dec241f96
+      internalID: 6538528067315140746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d1d01a60aee246a95d211e98fd9b4
+      internalID: -8176819537326568941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d51fe4c416adde4db7d85649e3b2b97
+      internalID: 6985842182728445701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf43beed2cc5d468346a3d26d05a98
+      internalID: -1966285895803188667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a22737169ceb45afee73c80fb4cdb
+      internalID: 633528257460548311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8579a143efd745889d34782bb8cdf
+      internalID: 6789307228617088812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b22814a1e9f74dbf149a5d547d5d7
+      internalID: -4713199433777582422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950932e403691043bd975c44797bbe7
+      internalID: -1535997757337438325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a65e7889706242bcc6eb1576cefbb
+      internalID: -6510309562111767142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae29ae6cd51bc438d6ae13b6f5660b
+      internalID: 171495611909701302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66823e41428c6a24480b9dbc8575d683
+      internalID: 1220305235651885481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829c37e279704e4dbc87ed43481182d
+      internalID: -2769528244416123866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df0b5ed15e5c24459b00afd4df41278
+      internalID: -3250339117290412197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccc70e8fdc93974d9b5572a7e2f305e
+      internalID: 4885772474198478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67091dccddb6b924b8c45813aa1ea09b
+      internalID: -2100891125236731769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9cba70da09fc943a1aeea234e5b917
+      internalID: 2494981311651851579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a2eee1430ae748ab733ee9c448ae8
+      internalID: 5425176924613690312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd155303f8a2e46b71c8fa2e839088
+      internalID: -7631759402897739108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c423147b9dc54c93150826606e88d
+      internalID: 6023662976076163923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d8c1cae798d7142b070bce22a39db4
+      internalID: 4518934025961942059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixDirectional_CuteHipsterBoy_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f49eba72377e84b9fd3eb95a939a0d
+      internalID: 2841731865421418588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe0790a4ada62874c8ac237d4a339870
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
